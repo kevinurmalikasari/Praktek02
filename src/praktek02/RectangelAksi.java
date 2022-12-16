@@ -11,6 +11,8 @@ package praktek02;
 public class RectangelAksi {
     public static void main(String[] args) {
         Rectangel r1 = new Rectangel();
+        r1.panjang = 9;
+        r1.lebar = 3;
         
     }
 }
