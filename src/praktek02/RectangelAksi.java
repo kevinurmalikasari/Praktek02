@@ -10,6 +10,7 @@ package praktek02;
  */
 public class RectangelAksi {
     public static void main(String[] args) {
+        Rectangel r1 = new Rectangel();
         
     }
 }
