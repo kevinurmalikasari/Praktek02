@@ -9,5 +9,13 @@ package praktek02;
  * @author kelompok34
  */
 public class Rectangel {
+    double panjang;
+    double lebar;
     
+    void cetakInfo(){
+        System.out.println("======================");
+        System.out.println("Panjang : "+panjang);
+        System.out.println("Lebar   : "+lebar);
+        
+    }
 }
