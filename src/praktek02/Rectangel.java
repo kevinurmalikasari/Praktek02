@@ -16,6 +16,12 @@ public class Rectangel {
         panjang=5;
         lebar=2;
     }
+
+    public Rectangel(double panjang, double lebar) {
+        this.panjang = panjang;
+        this.lebar = lebar;
+    }
+    
     
     
     void cetakInfo(){
