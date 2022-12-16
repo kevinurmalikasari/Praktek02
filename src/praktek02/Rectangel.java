@@ -18,4 +18,10 @@ public class Rectangel {
         System.out.println("Lebar   : "+lebar);
         
     }
+    
+    double hitungLuas(){
+        double luas;
+        luas=panjang*lebar;
+        return luas;
+    }
 }
