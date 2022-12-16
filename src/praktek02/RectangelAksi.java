@@ -16,6 +16,6 @@ public class RectangelAksi {
         
         r1.cetakInfo();
         System.out.println("Luas Rectangel = "+r1.hitungLuas());
-        
+        r1.cetakLuas();
     }
 }
